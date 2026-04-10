@@ -6,7 +6,7 @@
 
 #### Find me elsewhere 🌎
 
-- 🚀 [Site](https://diogocercilio.com/)
+- 🚀 [Site](https://diogocercilio.github.io)
 - 💻 [Coders Rank](https://profile.codersrank.io/user/diogocercilio)
 - 📸 [Instagram](https://www.instagram.com/diogocerciliu)
 - 💼 [LinkedIn](https://www.linkedin.com/in/diogocercilio/)
